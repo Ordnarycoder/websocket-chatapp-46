@@ -18,6 +18,6 @@ A simple real-time chat application built with **Node.js**, **Express**, and **W
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/Ordnarycoder/websocket-chatapp-46.git
 cd chat-app
 
